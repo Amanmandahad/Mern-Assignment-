@@ -17,6 +17,7 @@ git clone https://github.com/Amanmandahad/Mern-Assignment-.git
 cd Mern-Assignment-
 
 2. Install Dependencies
+   
 🔹 Backend (Node/Express)
 
 cd server

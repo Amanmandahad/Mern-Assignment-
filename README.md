@@ -42,7 +42,6 @@ npm run dev
 https://mern-assignment-ddhh.onrender.com
 
 🔹 Frontend (Vercel):
-Add here once deployed, e.g.
-https://mern-assignment.vercel.app
+https://mern-assignment-sigma.vercel.app/
 
 

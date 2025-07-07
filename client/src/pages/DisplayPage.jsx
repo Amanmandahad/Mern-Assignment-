@@ -13,11 +13,11 @@ function DisplayPage() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // ✅ Get user from backend
+      
         const userRes = await axios.get('http://localhost:4000/api/user');
         setUser(userRes.data);
 
-        // 🐶 Get dog image
+
         const dogRes = await axios.get('https://dog.ceo/api/breeds/image/random');
         setDogUrl(dogRes.data.message);
       } catch (error) {

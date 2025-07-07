@@ -35,7 +35,7 @@ cd server
 npm run dev
 
 🔹 Start Frontend (Runs on http://localhost:5173)
-cd ../client
+cd client
 npm run dev
 
 🌐 Deployed URLs

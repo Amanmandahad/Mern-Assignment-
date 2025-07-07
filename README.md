@@ -30,6 +30,7 @@ npm install
 
 
 🚀 Run the Application Locally
+
 🔹 Start Backend (Runs on http://localhost:4000)
 cd server
 npm run dev
@@ -39,6 +40,7 @@ cd client
 npm run dev
 
 🌐 Deployed URLs
+
 🔹 Backend (Render):
 https://mern-assignment-ddhh.onrender.com
 

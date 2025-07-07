@@ -38,6 +38,12 @@ app.get('/api/user', (req, res) => {
 });
 
 
+
+app.get('/', (req, res) => {
+  res.send('✅ Backend is running successfully!');
+});
+
+
   app.listen(PORT, () => {
     console.log(`✅ Server running at http://localhost:${PORT}`);
   });

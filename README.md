@@ -16,7 +16,7 @@ mern-assignment/
 git clone https://github.com/Amanmandahad/Mern-Assignment-.git
 cd Mern-Assignment-
 
-2. Install Dependencies
+### 2. Install Dependencies
    
 🔹 Backend (Node/Express)
 
@@ -29,7 +29,7 @@ cd client
 npm install
 
 
-🚀 Run the Application Locally
+ ### 🚀 Run the Application Locally
 
 🔹 Start Backend (Runs on http://localhost:4000)
 cd server
@@ -39,7 +39,7 @@ npm run dev
 cd client
 npm run dev
 
-🌐 Deployed URLs
+### 🌐 Deployed URLs
 
 🔹 Backend (Render):
 https://mern-assignment-ddhh.onrender.com
